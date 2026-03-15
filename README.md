@@ -30,6 +30,10 @@ Create and manage groups in Active Directory for access control and organization
 <p>
 1. Created the group "SecureGroup"
 
+<p>
+<img src="https://imgur.com/a/94DVix7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 
 
 
