@@ -30,7 +30,10 @@ Create and manage groups in Active Directory for access control and organization
 <p>
 1. Created the group "SecureGroup"
 <p>
-<img width="543" height="353" alt="Screenshot-AD-GROUP1" src="https://github.com/user-attachments/assets/f181bced-0a18-49e8-a452-4d99d4a6f084" />
+<img width="1470" height="956" alt="Screenshot-AD-GROUP1" src="https://github.com/user-attachments/assets/1aec15bf-fd18-45a6-ae2d-1f91a50c9226" />
+
+
+
   
 <p>
 2. Verified the newly created group in Active Directory Users and Computers
